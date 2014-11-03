@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Global.h" open="0" top="0" tabpos="19">
+		<Cursor position="164" topLine="0" />
+	</File>
+	<File name="Progress.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2083" topLine="65" />
+	</File>
+	<File name="Progress.h" open="1" top="0" tabpos="5">
+		<Cursor position="540" topLine="10" />
+	</File>
+	<File name="Rendering\rendering.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="3494" topLine="86" />
+	</File>
+	<File name="Rendering\rendering.h" open="1" top="0" tabpos="6">
+		<Cursor position="745" topLine="8" />
+	</File>
+	<File name="Scenes\Scenes.h" open="1" top="0" tabpos="2">
+		<Cursor position="464" topLine="13" />
+	</File>
+	<File name="Scenes\scenes.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="3555" topLine="109" />
+	</File>
+	<File name="funcs\Component.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="1094" topLine="36" />
+	</File>
+	<File name="funcs\Component.h" open="1" top="0" tabpos="9">
+		<Cursor position="489" topLine="9" />
+	</File>
+	<File name="funcs\Component_Manager.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="206" topLine="3" />
+	</File>
+	<File name="funcs\Component_Manager.h" open="1" top="0" tabpos="18">
+		<Cursor position="460" topLine="2" />
+	</File>
+	<File name="funcs\SDLOGL.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="986" topLine="17" />
+	</File>
+	<File name="funcs\SDLOGL.h" open="0" top="0" tabpos="7">
+		<Cursor position="196" topLine="0" />
+	</File>
+	<File name="funcs\hashtable.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="1137" topLine="0" />
+	</File>
+	<File name="funcs\hashtable.h" open="1" top="0" tabpos="15">
+		<Cursor position="145" topLine="3" />
+	</File>
+	<File name="funcs\lock.cpp" open="0" top="0" tabpos="18">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="funcs\lua_comm.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="6427" topLine="209" />
+	</File>
+	<File name="funcs\lua_comm.h" open="1" top="1" tabpos="8">
+		<Cursor position="974" topLine="26" />
+	</File>
+	<File name="funcs\msgbox.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="1512" topLine="52" />
+	</File>
+	<File name="funcs\msgbox.h" open="1" top="0" tabpos="12">
+		<Cursor position="516" topLine="4" />
+	</File>
+	<File name="lock.h" open="0" top="0" tabpos="5">
+		<Cursor position="134" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="2239" topLine="70" />
+	</File>
+</CodeBlocks_layout_file>

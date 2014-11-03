@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Guildies" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Guildies" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="F:\Dev\ToN_Lib\lua5.1.lib" />
+					<Add library="F:\Dev\ToN_Lib\lua51.lib" />
+					<Add library="F:\Dev\ToN_Lib\SDL_image.lib" />
+					<Add library="F:\Dev\ToN_Lib\SDL_mixer.lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Guildies" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="F:\Dev\SDL\include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lopengl32 -lglu32 -lSDL_mixer" />
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="F:\Dev\SDL\lib" />
+		</Linker>
+		<Unit filename="Global.h" />
+		<Unit filename="Progress.cpp" />
+		<Unit filename="Progress.h" />
+		<Unit filename="Rendering\rendering.cpp" />
+		<Unit filename="Rendering\rendering.h" />
+		<Unit filename="Scenes\Scenes.h" />
+		<Unit filename="Scenes\scenes.cpp" />
+		<Unit filename="cb.bmp" />
+		<Unit filename="funcs\Component.cpp" />
+		<Unit filename="funcs\Component.h" />
+		<Unit filename="funcs\Component_Manager.cpp" />
+		<Unit filename="funcs\Component_Manager.h" />
+		<Unit filename="funcs\SDLOGL.cpp" />
+		<Unit filename="funcs\SDLOGL.h" />
+		<Unit filename="funcs\SDL_TTF.h" />
+		<Unit filename="funcs\freetype.h" />
+		<Unit filename="funcs\hashtable.cpp" />
+		<Unit filename="funcs\hashtable.h" />
+		<Unit filename="funcs\lock.cpp" />
+		<Unit filename="funcs\lua_comm.cpp" />
+		<Unit filename="funcs\lua_comm.h" />
+		<Unit filename="funcs\msgbox.cpp" />
+		<Unit filename="funcs\msgbox.h" />
+		<Unit filename="lock.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

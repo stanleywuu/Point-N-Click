@@ -1,0 +1,536 @@
+# depslib dependency file v1.0
+1341496826 source:f:\cprojects\guildies\funcs\sdlogl.cpp
+	"SDLOGL.h"
+	<SDL_mixer.h>
+
+1340833509 f:\cprojects\guildies\funcs\sdlogl.h
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_Image.h>
+	<SDL/SDL_opengl.h>
+	"SDL/SDL_ttf.h"
+	<SDL/SDL_mixer.h>
+
+1255800449 f:\dev\sdl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255800464 f:\dev\sdl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255800450 f:\dev\sdl\include\sdl\sdl_platform.h
+
+1255800450 f:\dev\sdl\include\sdl\begin_code.h
+
+1255800450 f:\dev\sdl\include\sdl\close_code.h
+
+1255800449 f:\dev\sdl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_keysym.h
+
+1255800450 f:\dev\sdl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1147849154 f:\dev\sdl\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1147879276 f:\dev\sdl\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1342143205 source:f:\cprojects\guildies\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"funcs/SDLOGL.h"
+	"funcs/lua_comm.h"
+	"Progress.h"
+	"funcs/hashtable.h"
+	"Rendering/rendering.h"
+	"Global.h"
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1255800449 f:\dev\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255800464 f:\dev\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255800450 f:\dev\sdl\include\sdl_platform.h
+
+1255800450 f:\dev\sdl\include\begin_code.h
+
+1255800450 f:\dev\sdl\include\close_code.h
+
+1255800449 f:\dev\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_keysym.h
+
+1255800450 f:\dev\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 f:\dev\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255800450 f:\dev\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 f:\dev\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1343821269 source:f:\cprojects\guildies\funcs\lua_comm.cpp
+	<sstream>
+	<iostream>
+	"lua_comm.h"
+	"../Rendering/rendering.h"
+	"msgbox.h"
+	"../lock.h"
+	"../Progress.h"
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1218033012 f:\dev\sdl\include\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1219941576 f:\dev\sdl\include\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<unistd.h>
+	<io.h>
+	<stdio.h>
+	<stdio.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<assert.h>
+	<math.h>
+	<unistd.h>
+
+1198774944 f:\dev\sdl\include\lualib.h
+	"lua.h"
+
+1198774944 f:\dev\sdl\include\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1342147847 source:f:\cprojects\guildies\funcs\component.cpp
+	<string>
+	<list>
+	"lua_comm.h"
+	"Component.h"
+
+1342196344 f:\cprojects\guildies\funcs\lua_comm.h
+	<string>
+	<map>
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1342143205 f:\cprojects\guildies\funcs\component.h
+	"SDLOGL.h"
+	"lua_comm.h"
+
+1341409382 source:f:\cprojects\guildies\funcs\component_manager.cpp
+	"Component_Manager.h"
+
+1340932939 f:\cprojects\guildies\funcs\component_manager.h
+	<string>
+	<list>
+	"Component.h"
+
+1340933188 source:f:\cprojects\guildies\progress.cpp
+	<string>
+	<list>
+	<iostream>
+	"funcs/lua_comm.h"
+	<cstring>
+	"Progress.h"
+	"Global.h"
+
+1339531719 f:\cprojects\guildies\progress.h
+	<list>
+	<map>
+	"Scenes\scenes.h"
+
+1342206018 source:f:\cprojects\guildies\scenes\scenes.cpp
+	"..\funcs\lua_comm.h"
+	<iostream>
+	"scenes.h"
+	"..\Rendering\rendering.h"
+	"..\Global.h"
+
+1342195911 f:\cprojects\guildies\scenes\scenes.h
+	<iostream>
+	"..\funcs\SDLOGL.h"
+	"..\funcs\Component_Manager.h"
+
+1341882191 source:f:\cprojects\guildies\rendering\rendering.cpp
+	"rendering.h"
+	"..\funcs\SDLOGL.h"
+
+1341926894 source:f:\cprojects\guildies\funcs\hashtable.cpp
+	"hashtable.h"
+	<sstream>
+	<fstream>
+
+1340915388 f:\cprojects\guildies\funcs\hashtable.h
+	<list>
+	"lua_comm.h"
+	"SDLOGL.h"
+
+1340937032 f:\cprojects\guildies\rendering\rendering.h
+	<string>
+	<map>
+	"../funcs/hashtable.h"
+	"../Scenes/scenes.h"
+
+1340938290 source:f:\cprojects\guildies\funcs\msgbox.cpp
+	"msgbox.h"
+	"SDLOGL.h"
+
+1340935877 f:\cprojects\guildies\funcs\msgbox.h
+	"../Rendering/rendering.h"
+	<vector>
+	<string>
+
+1339521579 f:\cprojects\guildies\lock.h
+	<SDL/SDL_thread.h>
+
+1339521514 source:f:\cprojects\guildies\funcs\lock.cpp
+
+1340590571 f:\cprojects\guildies\global.h
+
